@@ -9,3 +9,4 @@ This project is about an ESP8266 Touch Switch. There will be 2 version of it for
 ![GitHub watchers](https://img.shields.io/github/watchers/Mineplayerminer/ESP-Touch-switch?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Mineplayerminer/ESP-Touch-switch?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Mineplayerminer/ESP-Touch-switch?style=social)
+![GitHub status](https://img.shields.io/badge/Status-Work%20in%20progress-yellow)
